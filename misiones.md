@@ -4,4 +4,4 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros de heroes
 4. Acabar con death Stroke, gatubela y joker
-5. Pedir ayuda a flash
+5. Pedir ayuda a flashclear
