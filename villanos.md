@@ -11,3 +11,4 @@
 * Mr Frio
 * Black Mantha
 * Flash Reverse
+* Siniestro
