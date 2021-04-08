@@ -2,6 +2,8 @@
 
 1. Ciudad Gótica
 2. Metrópolis
-4. Ciudad Central
-5. Atlantis
-6. Ciudad temiscira
+3. Ciudad Central
+4. Atlantis
+5. Ciudad temiscira
+6. star city
+7. coast citi
